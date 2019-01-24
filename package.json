@@ -30,7 +30,8 @@
     "debug": "2.6.9",
     "gremlin": "3.3.4",
     "moment-timezone": "0.5.21",
-    "websocket": "1.0.26"
+    "websocket": "1.0.26",
+    "ws": "3.0.0"
   },
   "devDependencies": {
     "eslint": "^5.4.0",
